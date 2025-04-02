@@ -1,13 +1,12 @@
 ### Hi there 👋
 
-- 🖐 Hi, I'm Rijamampianina from SAYNA. It's a digital school to learn all digitals jobs with a good family spirit and game way.
-- 👀 I'm interested in code but I am not a developper for now !
-- 🧠 I'm currently learning all things about development and specifically how to learn it.
-- 👨‍💻 I'm looking to collaborate on many projects to see all the methodology development in the world, good luck for me!
+- 🖐 Hi, I'm Rijamampianina from INSI—a university where data science meets creativity, collaboration, and a family spirit. We learn through play and innovation!  
+- 👀 My passion lies in data science and coding, though I’m not a developer yet.  
+- 👨‍💻 I’m eager to collaborate on diverse projects to explore development methodologies worldwide. Wish me luck as I embark on this exciting journey!  
 - ✍ You can reach me : rijamampianina@gmail.com
 
 <br><br>
-More about SAYNA: https://sayna.io/<br>
+More about INSI: https://www.insi.mg
 <br><br>
 
 🤝 To the pleasure of exchanging and/or collaborating together 🤝
